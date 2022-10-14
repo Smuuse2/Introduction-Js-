@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>RESPONSIVE NAV BAR</title>
+    <link rel="stylesheet" href="../dist/output.css" />
+    <script src="./app.js" defer></script>
+  </head>
+  <body>
+    <nav>
+      <div class="logo">
+        <h1 class="heading">Tiigsi Dev.</h1>
+      </div>
+
+      <div class="links">
+        <div>Home</div>
+        <div>Services</div>
+        <div>Projects</div>
+        <div>About us</div>
+        <div>
+          <button class="signup bg-blue-500 text-white p-3 mt-3 rounded-sm">
+            Signup
+          </button>
+        </div>
+      </div>
+
+      <div class="menu md:hidden cursor-pointer btnToggle">
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          fill="none"
+          viewBox="0 0 24 24"
+          stroke-width="1.5"
+          stroke="currentColor"
+          class="w-6 h-6"
+        >
+          <path
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            d="M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25h16.5"
+          />
+        </svg>
+      </div>
+    </nav>
+
+    <!-- modal -->
+    <div class="">
+      <div class="overlay">
+        <div class="modal">
+          <h1>SIGN UP</h1>
+          <form>
+            <div class="inputGroup">
+              <input
+                type="text"
+                class="username"
+                placeholder="Enter your username"
+              />
+              <div class="usernameError text-red-600 font-bold hidden"></div>
+            </div>
+            <div class="inputGroup">
+              <input
+                type="text"
+                class="email"
+                placeholder="Enter your Email address"
+                .text
+              />
+            </div>
+            <div class="inputGroup">
+              <input    type="password" class="Password " placeholder="Password" />
+              <dir class="hallow  text-red-500 font-bold "></dir>
+            </div>
+           
+            <div class="inputGroup">
+              <button
+                type="submit"
+                class="bg-slate-900 registerbtn text-white p-2 px-6 rounded-md"
+              >
+                Register
+              </button>
+              <button class="close bg-red-600 text-white p-2 px-6 rounded-md">
+                Close
+              </button>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

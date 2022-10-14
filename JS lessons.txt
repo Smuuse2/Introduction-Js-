@@ -1,0 +1,237 @@
+WEEK SEVEN : BASICS OF JAVASCRIPT
+DAY TWO
+========================================
+
+DATE 25/09/22
+=============
+
+LESSON PLAN
+============
+
+1. What is NaN ?
+2. Working with Javascript variables
+3. Variable naming and conventions
+4. Introducing Javscript strings
+5. String indices and length
+
+CHALLANGE
+==========
+1. Create a variable with firstname and store it any name you want
+2. Create another variable with lastname and store it any name you want
+3. Create fullname variable and Store these variables with one variable.
+4. Console log the fullname length
+
+
+WEEK SEVEN : INTRODUCTION TO JAVASCRIPT
+DAY THREE
+========================================
+
+DATE 26/09/22
+=============
+
+LESSON PLAN
+============
+
+1. String methods
+	-> Uppercase and lowercase methods
+	-> Trim method
+	-> Slice method
+	-> replace and replaceAll method
+	-> repeat method
+2. Template literals
+
+
+
+
+
+
+
+
+
+
+
+
+
+WEEK SEVEN : BASICS OF JAVASCRIPT
+DAY four & FIVE
+========================================
+
+DATE 28/09/22
+=============
+
+LESSON PLAN
+===========
+
+1. Math operators
+2. Math object
+	-> floor method 	// removes decimal
+	-> Random method	// generates random number from 0.1 -> 0.9
+	-> pow method 	// squares number
+3. Reminder operator
+3. Comparison operators
+	-> Greather than 
+	-> Less than
+	-> Equility
+4. if statements
+
+
+
+
+WEEK EIGHT : BASICS OF JAVASCRIPT
+DAY one 
+========================================
+
+DATE 01/10/22
+=============
+
+LESSON PLAN
+===========
+
+1. Console, Alert and promt
+2. Refreshing if, else and else if
+3. Nesting conditionals
+
+
+
+CHALLANGE
+==========
+1. Check whether number is zero, positive or negative using nested conditional statement
+
+
+
+WEEK EIGHT : BASICS OF JAVASCRIPT
+DAY Two 
+========================================
+
+DATE 02/10/22
+=============
+
+LESSON PLAN
+===========
+
+1. Logics
+	-> AND
+	-> OR
+	-> NOT
+
+2. Javascript Data structures (Arrays)
+	-> Accessing array
+	-> Pop and Push		// Last element
+	-> shift and unshift	// First element
+
+
+
+
+WEEK EIGHT : BASICS OF JAVASCRIPT
+DAY THREE 
+========================================
+
+DATE 03/10/22
+=============
+
+LESSON PLAN
+===========
+
+
+1. Concat, indexOf, Includes and reverse
+2. slice and splice
+3. Sort method
+
+
+
+CHALLANGE
+===========
+
+1. Create years array from 2010 - 2022
+2. Access and store in variable the 2017 year
+3. Access and store in variable the persidential period of muse bihi
+
+
+WEEK EIGHT : BASICS OF JAVASCRIPT
+DAY FOUR 
+========================================
+
+DATE 04/10/22
+=============
+
+LESSON PLAN
+===========
+
+1. Javascript objects
+2. Accessing object keys
+3. Modifying objects
+4. Objects in Array
+
+
+
+
+CHALLANGE
+============
+
+1. Create and store in a variable the second index's username
+2. Modify it to another username
+3. Change the first index of users array IsAdmin = true
+
+
+
+
+
+WEEK EIGHT : BASICS OF JAVASCRIPT
+DAY FIVE 
+========================================
+
+DATE 05/10/22
+=============
+
+LESSON PLAN
+===========
+
+
+1. Nested arrays and objects
+2. Introduction to functions
+3. Arguments
+
+
+
+WEEK NINE : DOCUMENT OBJECT MODEL (DOM)
+DAY ONE 
+========================================
+
+DATE 08/10/22
+=============
+
+LESSON PLAN
+===========
+
+1. Introduction to DOM & Document object
+2. How to get elements in Document
+3. Event listeners (PART ONE)
+3. InnerHtml, textContent and innerText
+
+
+WEEK NINE : DOCUMENT OBJECT MODEL (DOM)
+DAY TWO 
+========================================
+
+DATE 09/10/22
+=============
+
+LESSON PLAN
+===========
+
+
+1. ClassList
+2. Append & AppendChild
+3. remove HTML element
+
+
+
+
+
+
+
+
+
+
+
+
